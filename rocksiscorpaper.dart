@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
-
+// 터미널에서 시켜야 한다
 void main(){
 
   ////1. 유저에게 어떤것을 낼것인지
